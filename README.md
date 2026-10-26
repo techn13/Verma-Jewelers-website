@@ -1,11 +1,11 @@
-# Verma Jwellers
+# Verma Jewellers
 
-A responsive website for Verma Jwellers, a jewelry business in Chawal Mandi,
+A responsive website for Verma Jewellers, a jewellery business in Chawal Mandi,
 Kannauj. The project is intended to help bring the business online and grow its
 presence on social media, making it easier for people to discover the shop,
-explore its jewelry, and get in touch.
+explore its jewellery, and get in touch.
 
-The visual direction is a polished, premium jewelry-store experience that
+The visual direction is a polished, premium jewellery-store experience that
 highlights the business's own products, story, and identity.
 
 ## Current site
@@ -19,8 +19,8 @@ The site is a static front end built with:
 
 The current page includes:
 
-- Verma Jwellers branding and store information
-- Gold and silver jewelry content, including a featured hero section
+- Verma Jewellers branding and store information
+- Gold and silver jewellery content, including a featured hero section
 - English and Hindi display toggle
 - Responsive navigation, a testimonial carousel, and WhatsApp contact links
 - Contact details, business hours, and an embedded Kannauj-area map
@@ -38,7 +38,7 @@ The primary goal is to make the site a useful home for the business's social
 presence and customer discovery. Planned improvements include:
 
 - Add the verified Instagram, Facebook, and other business profile links.
-- Create a photo-led, regularly updated jewelry collection/gallery that can be
+- Create a photo-led, regularly updated jewellery collection/gallery that can be
   shared from social posts.
 - Make social visitors' next steps clear with prominent WhatsApp, call, and
   store-visit actions.
@@ -46,8 +46,8 @@ presence and customer discovery. Planned improvements include:
   dependent on any one platform.
 - Improve local discovery with verified store details and search metadata.
 
-The design can continue toward a premium jewelry-retail feel while staying
-distinctive to Verma Jwellers and focused on the Kannauj community.
+The design can continue toward a premium jewellery-retail feel while staying
+distinctive to Verma Jewellers and focused on the Kannauj community.
 
 ## Before publishing
 
