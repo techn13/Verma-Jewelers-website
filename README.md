@@ -5,10 +5,8 @@ Kannauj. The project is intended to help bring the business online and grow its
 presence on social media, making it easier for people to discover the shop,
 explore its jewelry, and get in touch.
 
-The visual direction is a polished, premium jewelry-store experience inspired
-by the presentation of established brands such as Tanishq. The site uses its
-own business name and content; it does not aim to copy another brand's identity
-or materials.
+The visual direction is a polished, premium jewelry-store experience that
+highlights the business's own products, story, and identity.
 
 ## Current site
 
