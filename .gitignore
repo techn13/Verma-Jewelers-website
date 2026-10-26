@@ -1,0 +1,10 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Local secrets and environment settings
+.env
+.env.*
+!.env.example
